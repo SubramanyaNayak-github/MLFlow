@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hitam/Downloads/MLFlow/mlruns/0/84de3e7c23a343afa1a22e77415fc126/artifacts
+end_time: 1705674671834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84de3e7c23a343afa1a22e77415fc126
+run_name: bouncy-moose-920
+run_uuid: 84de3e7c23a343afa1a22e77415fc126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705674662171
+status: 3
+tags: []
+user_id: hitam

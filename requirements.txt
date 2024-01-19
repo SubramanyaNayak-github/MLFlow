@@ -1,0 +1,11 @@
+pandas 
+mlflow==2.5.0
+numpy
+scikit-learn
+matplotlib
+python-box==6.0.2
+pyYAML
+joblib
+requests
+setuptools
+wheel
